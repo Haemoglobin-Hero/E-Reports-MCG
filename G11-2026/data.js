@@ -774,7 +774,7 @@ const data = {
   "7173": {
     name: "M.H.B.S. Gunasekara",
     place: 23,
-    marks: [68, 58, 46, 78, 80, 71, 57, 67, 75],
+    marks: [68, 58, 56, 78, 80, 71, 57, 68, 75],
     subjects: ["Sinhala", "Religion", "Science", "Maths", "English", "History", "OPT 1", "OPT 2", "OPT 3"]
   },
 
@@ -802,7 +802,7 @@ const data = {
   "7192": {
     name: "A.W.C. Dihen",
     place: 13,
-    marks: [78, 56, 47, 62, 86, 79, 88, 71, 73],
+    marks: [78, 56, 47, 62, 86, 79, 88, 76, 73],
     subjects: ["Sinhala", "Religion", "Science", "Maths", "English", "History", "OPT 1", "OPT 2", "OPT 3"]
   },
 
@@ -816,7 +816,7 @@ const data = {
   "7199": {
     name: "A. Sandaru",
     place: 20,
-    marks: [71, 51, 45, 76, 90, 63, 75, 71, 70],
+    marks: [76, 51, 45, 76, 90, 63, 75, 71, 70],
     subjects: ["Sinhala", "Religion", "Science", "Maths", "English", "History", "OPT 1", "OPT 2", "OPT 3"]
   },
 
@@ -830,7 +830,7 @@ const data = {
   "7226": {
     name: "A.G.N. Lisan",
     place: 28,
-    marks: [68, 53, 43, 57, 87, 69, 73, 57, 74],
+    marks: [78, 53, 43, 57, 87, 69, 73, 57, 74],
     subjects: ["Sinhala", "Religion", "Science", "Maths", "English", "History", "OPT 1", "OPT 2", "OPT 3"]
   },
 
@@ -900,14 +900,14 @@ const data = {
   "7479": {
     name: "A.A.T. Ankitha",
     place: 7,
-    marks: [72, 68, 63, 76, 83, 82, 88, 68, 79],
+    marks: [72, 68, 63, 76, 83, 82, 88, 78, 79],
     subjects: ["Sinhala", "Religion", "Science", "Maths", "English", "History", "OPT 1", "OPT 2", "OPT 3"]
   },
 
   "7486": {
     name: "Y.P. Dewnuka",
     place: 3,
-    marks: [72, 69, 62, 85, 88, 85, 87, 81, 91],
+    marks: [79, 72, 67, 85, 88, 85, 87, 81, 91],
     subjects: ["Sinhala", "Religion", "Science", "Maths", "English", "History", "OPT 1", "OPT 2", "OPT 3"]
   },
 
