@@ -907,7 +907,7 @@ const data = {
   "7486": {
     name: "Y.P. Dewnuka",
     place: 3,
-    marks: [72, 69, 62, 85, 88, 85, 87, 81, 91],
+    marks: [75, 69, 62, 85, 88, 85, 87, 81, 91],
     subjects: ["Sinhala", "Religion", "Science", "Maths", "English", "History", "OPT 1", "OPT 2", "OPT 3"]
   },
 
